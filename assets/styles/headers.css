@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@400;700&family=Poppins:ital,wght@0,300;1,200;1,500&display=swap');
+
+*{
+    padding: 0; margin: 0;
+    box-sizing: border-box;
+}
+
+
+header ul li a{
+    font-size: 18px;
+}
+
+body{
+    background-color: #171B1F;
+}
+
+header, section.filter{
+    font-family: 'Poppins', sans-serif;
+}
+
+header img{
+    width: 150px;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+  
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #0f48b9; 
+}
+
+header{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    background-color: #171B1F;
+    z-index: 10;
+}
+
+header #btn-menu button{
+    margin-left: 10px;
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    color: #fff;
+    font-size: 24px;
+}
+
+header #btn-menu button i{
+    background: linear-gradient(to right, #0d6efd, #5f9efc);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+header .logo img{
+    width: 150px;
+}
+
+.on{
+    display: none;
+}
+
+header nav{
+    top: 100%;
+    padding-left: 10px;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+header nav{
+    display: none;
+    background-color: #171B1F;
+    z-index: 10;
+}
+
+.nav{
+    display: block;
+}
+
+.btn button{
+    border: none;
+    background-color: #0d6efd;
+    padding: 10px;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .4s;
+    width: 100%;
+    margin-bottom: 10px;
+    font-size: 18px;
+
+}
+
+header nav .btn-mobile{
+    width: 100%;
+    margin: 0 auto;
+}
+
+header nav .btn-mobile button{
+    width: 200px;
+}
+
+header .btn-desk{
+    display: none;
+}
+
+header button.btn-entrar{
+    background-color: transparent;
+    color: #0d6efd;
+    border: 1px solid #0B5ED7;
+}
+
+header button.btn-cadastrar:hover{
+    background-color: #1354b6;
+}
+
+header button.btn-entrar:hover{
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+header button.btn-sair{
+    background-color: #0d6efd;
+    color: #fff;
+    width: 90px;
+    text-transform: uppercase;
+}
+
+header nav ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    list-style: none;
+    width: 100%;
+}
+
+
+header nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #0d6efd;
+}
+
+header nav .btn-mobile{
+    margin-top: 20px;
+} 
+
+@media (min-width: 414px){
+    header nav .btn-mobile{
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
+@media (min-width: 768px){
+    header nav .btn-mobile{
+        display: none;
+    }
+
+    #nav div ul li{
+        padding-left: 20px;
+    }
+
+    #btn-menu{
+        display: none;
+    }
+
+    nav, #nav{
+        position: relative;
+        display: flex;
+    }
+
+    header .btn-desk{
+        display: flex;
+        gap: 10px;
+        margin-right: 20px;
+    }
+
+    header .btn-desk-logado{
+        gap: 40px;
+    }
+
+    header .btn-desk button{
+        font-size: 16px;
+    }
+
+    header .btn-desk a i{
+        color: yellow;
+        line-height: 40px;
+    }
+    
+    nav div ul{
+        justify-content: center;
+    }
+
+    nav div ul li a{
+        font-size: 16px;
+    }
+
+    header nav ul{
+        flex-direction: row;
+    }
+}
+
+@media(min-width: 975px){
+    nav div ul li a{
+        font-size: 18px;
+    }
+}
+
+
+#nav div ul li{
+    margin-left: 20px;
+}
+
+.disclaimer{
+   display: none;
+}
