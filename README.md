@@ -8,11 +8,11 @@
 
 <div align="center">
 
-  [Sobre](#📌-sobre-a-dgr-games)&nbsp;&nbsp;|&nbsp;
-  [Tecnologias](#🚀-tecnologias-utilizadas) &nbsp;| 
-  [Aprendizado](#📚-aprendizado) &nbsp;|&nbsp;
-  [Protótipo](#💻-protótipo) &nbsp;|&nbsp; 
-  [Pré Requisitos](#🔔-pré-requisitos) 
+  [Sobre](#-sobre-a-dgr-games)&nbsp;&nbsp;|&nbsp;
+  [Tecnologias](#-tecnologias-utilizadas) &nbsp;| 
+  [Aprendizado](#-aprendizado) &nbsp;|&nbsp;
+  [Protótipo](#-protótipo) &nbsp;|&nbsp; 
+  [Pré Requisitos](#-pré-requisitos) 
 
 </div>
 
