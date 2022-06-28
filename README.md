@@ -12,7 +12,7 @@
   [Tecnologias](#-tecnologias-utilizadas) &nbsp;| 
   [Aprendizado](#-aprendizado) &nbsp;|&nbsp;
   [Protótipo](#-protótipo) &nbsp;|&nbsp; 
-  [Pré Requisitos](#-pré-requisitos) 
+  [Pré-Requisitos](#-pré-requisitos) 
 
 </div>
 
@@ -40,7 +40,7 @@ Desenvolvi esse protótipo pela ferramenta Figma, onde entendi mais sobre UI/UX 
 <br>
 
 
-## 🔔 Pré-requisitos 
+## 🔔 Pré-Requisitos 
 Antes de começar, você irá precisar instalar as seguintes ferramentas: <br>
 [XAMPP](https://www.apachefriends.org/download.html) para rodar o servidor localmente e um editor de código, recomendo o [VSCode](https://code.visualstudio.com/download).
 
@@ -61,7 +61,7 @@ FEITO ISSO AGORA VOCÊ PODE TESTAR A APLICAÇÃO POR COMPLETO!
 
 
 ## Link do site: 
-### [Clique aqui](https://dgrgames.000webhostapp.com)
+<a href="https://dgrgames.000webhostapp.com" target="_blank">Clique aqui</a>
 
 ---
   Made with 💙 by Raphael Baccega 👋 [My LinkedIn](https://www.linkedin.com/in/raphael-couto-baccega/)
