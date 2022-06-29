@@ -61,7 +61,7 @@ FEITO ISSO AGORA VOCÊ PODE TESTAR A APLICAÇÃO POR COMPLETO!
 
 
 ## Link do site: 
-<a href="https://dgrgames.000webhostapp.com" target="_blank">Clique aqui</a>
+### [Clique aqui](https://dgrgames.000webhostapp.com)
 
 ---
   Made with 💙 by Raphael Baccega 👋 [My LinkedIn](https://www.linkedin.com/in/raphael-couto-baccega/)
