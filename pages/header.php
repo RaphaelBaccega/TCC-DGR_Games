@@ -6,7 +6,7 @@
   <link rel="stylesheet" href="/tcc/assets/styles/headers.css" />
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="/tcc/assets/js/bootstrap.bundle.min.js"></script>
-  <script src="https://kit.fontawesome.com/5e946757ee.js" crossorigin="anonymous"></script>
+  <script src="https://kit.fontawesome.com/82c01e6859.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="/tcc/assets/styles/search-results.css">
   <link rel="stylesheet" href="/tcc/assets/styles/footer.css">
   <link rel="shortcut icon" href="/tcc/assets/imgs/icons/logo-fav.png" type="image/png">
